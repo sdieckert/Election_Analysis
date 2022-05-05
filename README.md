@@ -41,6 +41,9 @@ The analysis of the election shows that:
 - The county with the largest voter turnout:
   - Denver county who received 82.8% of the votes and 306,055 number of votes.
 
+![election_results](https://user-images.githubusercontent.com/87085239/166859250-70dd2173-c716-4345-a9b3-7a8468f90343.png)
+
+
 ## Election-Audit Summary
 As demonstrated by the additional request to analyze voter turnout by county, the current python script is adaptable for additional analysis with relative ease. The code is setup in a format that only needs to be duplicated for any new analysis by addiing new variables, copying and replacing the new variables in the code and adding new text output. 
 
