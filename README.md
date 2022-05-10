@@ -52,9 +52,9 @@ The analysis of the election shows that:
 
 
 ## Election-Audit Summary
-As demonstrated by the additional request to analyze voter turnout by county, the current python script is adaptable for additional analysis with relative ease. The code is setup in a format that only needs to be duplicated for any new analysis by addiing new variables, copying and replacing the new variables in the code and adding new text output. 
+As demonstrated by the additional request to analyze voter turnout by county, the current python script is adaptable for additional analysis with relative ease. The code is setup in a format that only needs to be duplicated for any new analysis by adding new variables, copying and replacing the new variables in the code and adding new text output. 
 
-Because of the flexibility with the script, it could be utilized for many types of elections such as local, state and federal with replacing the counties with districts or states. Should a new election_results file be provided based on multiple races and positions, a new list could be added for position allowing for the analysis to be grouped by elected position. In addition, because the script is easily adaptable, new voter insights can be obtained, such as percentage of each candidates' total vote within each distict, county, or state by adding a nested for loop. This would provide valuable informaiton for targeting those areas with low voter turnout and distribution of voters' party affiliation.
+Because of the flexibility with the script, it could be utilized for many types of elections such as local, state and federal with replacing the counties with districts or states. Should a new election_results file be provided based on multiple races and positions, a new list could be added for positions allowing for the analysis to be grouped by elected position. In addition, because the script is easily adaptable, new voter insights can be obtained, such as percentage of each candidates' total vote within each distict, county, or state by adding a nested for loop. This would provide valuable informaiton for targeting those areas with low voter turnout and distribution of voters' party affiliation.
 
 
 
